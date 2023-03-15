@@ -55,3 +55,8 @@ Neste desafio você criará uma sistema para cadastro de pessoas e seus contatos
 - RN02 - São dados de contato: Tipo (Telefone ou Email), Descrição.
 
 - RN03 - Uma pessoa pode ter vários contatos
+
+## Envio do teste
+
+* Suba o repositório no seu Github e envie o link diretamente para o seu recrutador.
+Obs.: Não serão aceitos alterações após o envio.
