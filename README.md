@@ -38,7 +38,8 @@ Neste desafio você criará uma sistema para cadastro de pessoas e seus contatos
 
 - RNF05 - As APIs do backend devem ter algum padrão de autenticação.
 
-- RNF06 - O sistema deve utilizar um banco de dados SQL (postgres ou mysql).
+- RNF06 - O sistema deve utilizar um banco de dados SQL (postgres ou mysql), considerando a seguinte modelagem:
+![Modelagem](image/diagrama.png)
 
 - RNF07 - O sistema deverá ter seu controle de versão no Github.
 
