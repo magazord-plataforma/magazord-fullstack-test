@@ -43,6 +43,10 @@ Neste desafio você criará uma sistema para cadastro de pessoas e seus contatos
 
 - RNF07 - O sistema deverá ter seu controle de versão no Github.
 
+- RNF08 - O sistema deverá utilizar controle de migrations para criação / manutenção do banco de dados.
+
+- RNF09 - O sistema deverá ter a sua execução controlada por ambiente Docker/Docker-Compose.
+
 
 ## Regra de Negócio:
 
