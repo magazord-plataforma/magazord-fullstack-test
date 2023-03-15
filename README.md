@@ -13,40 +13,40 @@ Este repositório tem como fim testar os candidatos para vaga de desenvolvedor F
 
 Neste desafio você criará uma sistema para cadastro de pessoas e seus contatos
 
-##Requisitos funcionais:
+## Requisitos funcionais:
 
-RF01 - O sistema deve manter uma tela de consulta para pessoas.
+- RF01 - O sistema deve manter uma tela de consulta para pessoas.
 
-RF02 - O sistema deve manter um campo de pesquisa por nome de pessoa.
+- RF02 - O sistema deve manter um campo de pesquisa por nome de pessoa.
 
-RF03 - O sistema deve manter uma tela de consulta para contatos.
+- RF03 - O sistema deve manter uma tela de consulta para contatos.
 
-RF04 - O sistema deve manter um CRUD (Cadastrar, Visualizar, Alterar, Excluir) para pessoas.
+- RF04 - O sistema deve manter um CRUD (Cadastrar, Visualizar, Alterar, Excluir) para pessoas.
 
-RF05 - O sistema deve manter um CRUD (Cadastrar, Visualizar, Alterar, Excluir) para contato.
-
-
-##Requisitos não funcionais:
-
-RNF01 - O sistema deve utilizar a linguagem NodeJS para o Back-end.
-
-RNF02 - Deve se utilizar algum dos seguintes frameworks para a parte visual: ReactJS ou Vue.JS.
-
-RNF03 - O sistema deve ser responsivo.
-
-RNF04 - O sistema deve se comunicar através da utilização de APIs, ou seja, pelo padrão MVC.
-
-RNF05 - As APIs do backend devem ter algum padrão de autenticação.
-
-RNF06 - O sistema deve utilizar um banco de dados SQL (postgres ou mysql).
-
-RNF07 - O sistema deverá ter seu controle de versão no Github.
+- RF05 - O sistema deve manter um CRUD (Cadastrar, Visualizar, Alterar, Excluir) para contato.
 
 
-Regra de Negócio:
+## Requisitos não funcionais:
 
-RN01 - São dados de pessoas: Nome e CPF.
+- RNF01 - O sistema deve utilizar a linguagem NodeJS para o Back-end.
 
-RN02 - São dados de contato: Tipo (Telefone ou Email), Descrição.
+- RNF02 - Deve se utilizar algum dos seguintes frameworks para a parte visual: ReactJS ou Vue.JS.
 
-RN03 - Uma pessoa pode ter vários contatos
+- RNF03 - O sistema deve ser responsivo.
+
+- RNF04 - O sistema deve se comunicar através da utilização de APIs, ou seja, pelo padrão MVC.
+
+- RNF05 - As APIs do backend devem ter algum padrão de autenticação.
+
+- RNF06 - O sistema deve utilizar um banco de dados SQL (postgres ou mysql).
+
+- RNF07 - O sistema deverá ter seu controle de versão no Github.
+
+
+## Regra de Negócio:
+
+- RN01 - São dados de pessoas: Nome e CPF.
+
+- RN02 - São dados de contato: Tipo (Telefone ou Email), Descrição.
+
+- RN03 - Uma pessoa pode ter vários contatos
