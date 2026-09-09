@@ -30,7 +30,7 @@ Neste desafio você criará uma sistema para cadastro de pessoas e seus contatos
 
 - RNF01 - O sistema deve utilizar a linguagem NodeJS para o Back-end.
 
-- RNF02 - Deve se utilizar algum dos seguintes frameworks para a parte visual: ReactJS ou Vue.JS.
+- RNF02 - Deve se utilizar ReactJS para a parte visual.
 
 - RNF03 - O sistema deve ser responsivo.
 
@@ -47,6 +47,8 @@ Neste desafio você criará uma sistema para cadastro de pessoas e seus contatos
 
 - RNF09 - O sistema deverá ter a sua execução controlada por ambiente Docker/Docker-Compose.
 
+- RNF10 - O sistema deverá conter testes unitários no back-end, cobrindo ao menos um caso de uso da aplicação (ex.: cadastro de pessoa, validação de CPF ou criação de contato). Os testes devem ser executáveis via um comando documentado no README (ex.: `npm test`).
+
 
 ## Regra de Negócio:
 
@@ -55,6 +57,14 @@ Neste desafio você criará uma sistema para cadastro de pessoas e seus contatos
 - RN02 - São dados de contato: Tipo (Telefone ou Email), Descrição.
 
 - RN03 - Uma pessoa pode ter vários contatos
+
+## Diferenciais (opcionais)
+
+Estes itens não são obrigatórios e não eliminam candidatos. São considerados pontos extras na avaliação:
+
+- DF01 - Utilização de um Design System baseado em componentes (ex.: [Shadcn/ui](https://ui.shadcn.com/)) para a construção da interface.
+
+- DF02 - Boa organização e reaproveitamento de componentes de UI.
 
 ## Envio do teste
 
